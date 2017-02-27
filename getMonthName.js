@@ -12,3 +12,5 @@ const months = [
   'november',
   'december'
 ];
+
+console.log('');
