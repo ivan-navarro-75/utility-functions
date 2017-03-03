@@ -1,3 +1,4 @@
+
 const initials = (name = '') => (
   name
     .split(' ')
@@ -6,5 +7,6 @@ const initials = (name = '') => (
 );
 
 console.log('hooola');
+
 
 export default initials;
