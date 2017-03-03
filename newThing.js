@@ -5,4 +5,6 @@ const initials = (name = '') => (
     .join('')
 );
 
+console.log('hooola');
+
 export default initials;
